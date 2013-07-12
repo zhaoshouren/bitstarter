@@ -1,1 +1,1 @@
-https://github.com/zhaoshouren/bitstarter/blob/f0c387157241baecd478ea08a60918c89ff5202f/index.html
+https://github.com/zhaoshouren/bitstarter/blob/31a9ee385844731c2cfd2e510061a54a8b213ff3/web.js
